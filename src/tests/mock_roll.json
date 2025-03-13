@@ -1,0 +1,38 @@
+[
+	{
+	  "length": 100,
+	  "weight": 50,
+	  "date_added": "2025-03-10",
+	  "date_removed": "2025-03-12"
+	},
+	{
+	  "length": 150,
+	  "weight": 60,
+	  "date_added": "2025-03-11",
+	  "date_removed": "2025-03-13"
+	},
+	{
+	  "length": 200,
+	  "weight": 80,
+	  "date_added": "2025-03-09",
+	  "date_removed": "2025-03-11"
+	},
+	{
+	  "length": 175,
+	  "weight": 70,
+	  "date_added": "2025-03-12",
+	  "date_removed": "2025-03-14"
+	},
+	{
+	  "length": 130,
+	  "weight": 55,
+	  "date_added": "2025-03-08",
+	  "date_removed": "2025-03-10"
+	},
+	{
+	  "length": 220,
+	  "weight": 90,
+	  "date_added": "2025-03-07",
+	  "date_removed": "2025-03-09"
+	}
+]
