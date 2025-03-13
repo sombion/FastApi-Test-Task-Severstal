@@ -55,7 +55,7 @@ async def api_filter_roll(
         max_removed_date,
     )
     
-@router.get("/rolls/stats/")
+@router.get("/rolls/stats")
 async def get_roll_stats(
     start_date: datetime = Query(..., description="Начальная дата периода"),
     end_date: datetime = Query(..., description="Конечная дата периода"),
